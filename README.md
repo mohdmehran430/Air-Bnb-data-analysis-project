@@ -65,3 +65,16 @@ $ price range, with a few high-value outliers. Visualizations like histograms an
 **Price vs. Room Type:** As expected, 'Entire home/apt' generally commands higher prices compared to 'Private room' or 'Shared room'.
 
 **Reviews Over Time:** The number of reviews has shown a [positive/negative/fluctuating] trend, indicating [increasing/decreasing] user engagement.
+
+
+
+**Technologies Used**
+🐍 Python
+
+🐼 Pandas (for data manipulation)
+
+📊 Matplotlib / Seaborn (for data visualization)
+
+📓 Jupyter Notebook (for analysis environment)
+
+(libraries or tools  used, e.g., NumPy, Scikit-learn, etc.)
