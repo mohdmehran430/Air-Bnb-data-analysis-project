@@ -21,15 +21,26 @@ The dataset used in this analysis is publicly available and contains information
 This analysis specifically tackles the following business questions:
 **1.What is the distribution of listing prices?**
 **.** This section will explore the price range, common price points, and any outliers in the listing prices.
+
+
 **2.How are different room types distributed?**
  ** .**This will investigate the prevalence of 'Entire home/apt', 'Private room', 'Shared room', etc., within the dataset.
+
+
 **3.How are listings distributed across different neighborhoods?**
 **.**This section will visualize and analyze the concentration of Airbnb listings in various neighborhoods.
+
+
 **4.What is the relationship between price and room type?**
 **.**This analysis will examine how the average price varies across different room types.
+
+
 **5.How has the number of reviews changed over time?**
 **.**This will track the trend of review counts to understand user engagement and listing popularity over time**.
-Analysis & Insights**
+
+
+
+**Analysis & Insights**
 **Listing Price Distribution:** Our analysis revealed that the majority of listings fall within the 
 **$ to**
 $ price range, with a few high-value outliers. Visualizations like histograms and box plots illustrate this distribution.
