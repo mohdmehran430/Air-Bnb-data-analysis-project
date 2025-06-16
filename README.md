@@ -1,7 +1,6 @@
 **Airbnb Data Analysis Project**
 
 
-![image]https://www.digital.ink/wp-content/uploads/airbnb_logo_detail.jpg
 
 
 Airbnb, Inc. (/ˌɛərˌbiːɛnˈbiː/ AIR-BEE-en-BEE, an abbreviation of its original name, "Air Bed and Breakfast"[5]) is an American company operating an online marketplace for short-and-long-term homestays, experiences and services in various countries and regions. It acts as a broker and charges a commission from each booking. Airbnb was founded in 2008 by Brian Chesky, Nathan Blecharczyk, and Joe Gebbia. It is the best-known company for short-term housing rentals.
